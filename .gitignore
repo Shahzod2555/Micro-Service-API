@@ -1,48 +1,5 @@
 __pycache__/
-*.py[cod]
-*$py.class
-
-.cache/
-*.log
-
-venv/
-env/
 .venv/
-ENV/
-env.bak/
 
-.vscode/
 .idea/
-*.sublime-project
-*.sublime-workspace
-
-# OS generated files
-.DS_Store
-Thumbs.db
-
-# Databases
-*.sqlite3
 *.db
-instance/
-
-# Local environment variables
-.env
-*.env
-
-# Migrations
-migrations/
-alembic/
-
-# Testing files
-htmlcov/
-.coverage
-.pytest_cache/
-
-# Docker
-*.pid
-docker-compose.override.yml
-
-# Other
-dist/
-build/
-*.egg-info/
